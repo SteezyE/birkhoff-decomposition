@@ -21,7 +21,7 @@ permutations are 0-indexed column indices sorted by row
 ./builder.sh
 
 -- run example --
-./build/algorithms/birkhoff < 064_4_12_70_skewed.mtx
+./build/algorithms/birkhoff < examples/064_4_12_70_skewed.mtx
 (all programs read from stdin and write to stdout)
 
 -- clean up --
